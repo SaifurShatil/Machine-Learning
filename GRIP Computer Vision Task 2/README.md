@@ -1,2 +1,2 @@
 Task Name: Color Identification in Images  
-Colab Link: https://cutt.ly/yQB0DsD
+Colab Link: https://cutt.ly/1QB3r1c
